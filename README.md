@@ -11,4 +11,4 @@
 - Breadboard
 
 ## Description
-This project demonstrates basic Arduino programming using C to control LEDs in different patterns.
+This project demonstrates basic Arduino programming using C/C++ based to control LEDs in different patterns.
